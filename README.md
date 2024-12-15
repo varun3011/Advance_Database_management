@@ -102,24 +102,3 @@ lyft-reviews-sentiment-analysis/
 ├── README.md           # Project documentation
 └── Lyft_Ride_Reviews_Augmented_for_User.csv # Dataset
 ```
-
----
-
-## 📜 Future Plans
-
-- **Scaling**: Test the model on larger datasets with diverse languages.
-- **Advanced NLP**: Integrate transformer-based architectures for nuanced sentiment detection.
-- **Deployment**: Develop a web-based UI for users to interact with real-time predictions.
-
----
-
-## 💻 Contributing
-
-Contributions are welcome! Please fork the repository, make your changes, and create a pull request.
-
----
-
-## 📧 Contact
-
-- **Varun Patel**: [varun3011@csu.fullerton.edu](mailto:varun3011@csu.fullerton.edu)
-- **Bhargav Akabari**: [Bhargav2901@csu.fullerton.edu](mailto:Bhargav2901@csu.fullerton.edu)
